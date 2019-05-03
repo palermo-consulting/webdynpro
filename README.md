@@ -5,4 +5,4 @@ Repository of webdynpro applications
 
 Application | Description
 ----------- | -----------
-**fiori_password_reset**  | Password reset applicaiton for Fiori Launchpad
+
